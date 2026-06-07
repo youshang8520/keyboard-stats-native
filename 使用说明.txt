@@ -1,0 +1,13 @@
+Keyboard Stats Native
+
+入口 / Entry:
+KeyStatsPanel.exe
+
+说明：
+- Control Panel 是唯一入口
+- Worker 是统计进程，内部组件
+- Watchdog 是守护进程，内部组件
+- 不要手动启动 Worker 或 Watchdog
+- 关闭控制面板不会停止后台统计
+- 点击“关闭统计”才会停止全部进程
+

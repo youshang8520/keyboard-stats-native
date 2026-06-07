@@ -1,0 +1,6 @@
+data/*
+!data/.keep
+*.log
+*.csv
+*.pid
+*.request
