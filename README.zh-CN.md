@@ -1,8 +1,10 @@
-# Keyboard Stats Native
+# Key Stats by guolei
 
 Windows 原生键盘统计工具。
 
-作者：by guolei
+作者：guolei
+
+授权说明：仅限非商业使用。
 
 英文文档：[README.md](README.md)
 

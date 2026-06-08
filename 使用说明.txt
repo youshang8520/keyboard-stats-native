@@ -1,4 +1,6 @@
-Keyboard Stats Native
+Key Stats by guolei
+
+仅限非商业使用
 
 入口 / Entry:
 KeyStatsPanel.exe

@@ -1,8 +1,10 @@
-# Keyboard Stats Native
+# Key Stats by guolei
 
 Windows native keyboard statistics tool.
 
-Author: by guolei
+Author: guolei
+
+License note: non-commercial use only.
 
 Chinese documentation: [README.zh-CN.md](README.zh-CN.md)
 
